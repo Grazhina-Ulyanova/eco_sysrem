@@ -5,7 +5,6 @@ import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.stream.Collectors;
 
 public class Main {
-    //исправить
     private static final Scanner scanner = new Scanner(System.in);
     private static final String regForNumbers = ".*\\d.*";
     private static final String regForSymbols = ".*[^a-zA-Z0-9].*";
